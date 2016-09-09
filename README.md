@@ -4,7 +4,9 @@ This project is a boilerplate to start easily projects in an environment where y
 
 ## Installation
 
-To start working w/ it you first have to do
+To use this tool you need to have installed (globally) in your machine [Node](https://nodejs.org/en/), [NPM](https://www.npmjs.com/) (included in the node installation) and [grunt](http://gruntjs.com/getting-started)
+
+To start working w/ this project you first have to do
 
     npm install
 
