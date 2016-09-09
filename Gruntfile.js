@@ -9,7 +9,7 @@ module.exports = function(grunt) {
 	grunt.config('autoprefixer', {
     single_file: {
         src: 'src/style.css',
-        dest: 'public/bundle-style.css'
+        dest: 'public/style.css'
     }
 	})
 
